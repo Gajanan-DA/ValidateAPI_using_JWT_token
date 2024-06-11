@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ValidateAPI_using_JWT_token
 This is R&amp;D app which contains the code to Validate the APi's using JWT tokens
 
@@ -30,7 +30,3 @@ Please find the below steps to call the functions in sequences using postman -
 4. curl --location 'https://localhost:44393/api/login/validatetoken' \
 --header 'Content-Type: application/json' \
 --data '"***********************************************************"'
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
