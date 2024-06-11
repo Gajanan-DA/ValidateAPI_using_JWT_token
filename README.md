@@ -2,8 +2,6 @@
 # ValidateAPI_using_JWT_token
 This is R&amp;D app which contains the code to Validate the APi's using JWT tokens
 
-=======
->>>>>>> origin/master
 Please find the below steps to call the functions in sequences using postman - 
 
 1. https://localhost:44393/api/login/test
